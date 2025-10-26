@@ -1,0 +1,15 @@
+[12-Sep-2025 11:52:31 Europe/Berlin] [2025-09-12 11:52:31] Delete request received: {"id":"17"}
+[12-Sep-2025 11:52:31 Europe/Berlin] [2025-09-12 11:52:31] Processing delete for ID: 17
+[12-Sep-2025 11:52:31 Europe/Berlin] [2025-09-12 11:52:31] Lookbook found for ID: 17, image_url: uploads/lookbooks/1757667983_WOMENL.webp
+[12-Sep-2025 11:52:31 Europe/Berlin] [2025-09-12 11:52:31] Image deleted: uploads/lookbooks/1757667983_WOMENL.webp
+[12-Sep-2025 11:52:31 Europe/Berlin] [2025-09-12 11:52:31] Lookbook deleted successfully for ID: 17
+[12-Sep-2025 16:29:13 Europe/Berlin] [2025-09-12 16:29:13] Delete request received: {"id":"23"}
+[12-Sep-2025 16:29:13 Europe/Berlin] [2025-09-12 16:29:13] Processing delete for ID: 23
+[12-Sep-2025 16:29:13 Europe/Berlin] [2025-09-12 16:29:13] Lookbook found for ID: 23, image_url: uploads/lookbooks/1757671605_Modano.webp
+[12-Sep-2025 16:29:13 Europe/Berlin] [2025-09-12 16:29:13] Image deleted: uploads/lookbooks/1757671605_Modano.webp
+[12-Sep-2025 16:29:13 Europe/Berlin] [2025-09-12 16:29:13] Lookbook deleted successfully for ID: 23
+[14-Sep-2025 21:10:41 Europe/Berlin] [2025-09-14 21:10:41] Delete request received: {"id":"32"}
+[14-Sep-2025 21:10:41 Europe/Berlin] [2025-09-14 21:10:41] Processing delete for ID: 32
+[14-Sep-2025 21:10:41 Europe/Berlin] [2025-09-14 21:10:41] Lookbook found for ID: 32, image_url: uploads/lookbooks/1757877009_Modano.webp
+[14-Sep-2025 21:10:41 Europe/Berlin] [2025-09-14 21:10:41] Image deleted: uploads/lookbooks/1757877009_Modano.webp
+[14-Sep-2025 21:10:41 Europe/Berlin] [2025-09-14 21:10:41] Lookbook deleted successfully for ID: 32

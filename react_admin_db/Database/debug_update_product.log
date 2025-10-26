@@ -1,0 +1,29 @@
+[12-Sep-2025 16:35:36 Europe/Berlin] [2025-09-12 16:35:36] Update product request received: {"collection":"footwear","gender":"men","brand":"B","name":"T","price":"1","stock":"2","id":"150"}, Files: {"image":{"name":"Modano.webp","full_path":"Modano.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php67E.tmp","error":0,"size":5848}}
+[12-Sep-2025 16:35:36 Europe/Berlin] [2025-09-12 16:35:36] Invalid input: ID=150, Category=, Collection=footwear, Gender=men, Brand=B, Name=T, Price=1, Stock=2
+[12-Sep-2025 16:35:51 Europe/Berlin] [2025-09-12 16:35:51] Update product request received: {"collection":"footwear","gender":"men","brand":"B","name":"T","price":"1","stock":"2","id":"150"}, Files: {"image":{"name":"docker.jpg","full_path":"docker.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php4463.tmp","error":0,"size":34376}}
+[12-Sep-2025 16:35:51 Europe/Berlin] [2025-09-12 16:35:51] Invalid input: ID=150, Category=, Collection=footwear, Gender=men, Brand=B, Name=T, Price=1, Stock=2
+[12-Sep-2025 16:36:12 Europe/Berlin] [2025-09-12 16:36:12] Update product request received: {"collection":"footwear","gender":"men","brand":"B","name":"T","price":"1","stock":"1","id":"150"}, Files: {"image":{"name":"Modano.webp","full_path":"Modano.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php93FB.tmp","error":0,"size":5848}}
+[12-Sep-2025 16:36:12 Europe/Berlin] [2025-09-12 16:36:12] Invalid input: ID=150, Category=, Collection=footwear, Gender=men, Brand=B, Name=T, Price=1, Stock=1
+[12-Sep-2025 16:38:15 Europe/Berlin] [2025-09-12 16:38:15] Update product request received: {"collection":"footwear","gender":"men","brand":"B","name":"T","price":"1","stock":"1","id":"150"}, Files: {"image":{"name":"Modano.webp","full_path":"Modano.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php76C6.tmp","error":0,"size":5848}}
+[12-Sep-2025 16:38:15 Europe/Berlin] [2025-09-12 16:38:15] Processing update for product ID: 150, Category: 
+[12-Sep-2025 16:38:15 Europe/Berlin] [2025-09-12 16:38:15] Exception: Unknown column 'image_url' in 'field list'
+[12-Sep-2025 18:53:54 Europe/Berlin] [2025-09-12 18:53:54] Update product request received: {"collection":"footwear","gender":"men","brand":"B","name":"T","price":"2","stock":"1","id":"150"}, Files: {"image":{"name":"WOMENL.webp","full_path":"WOMENL.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\phpA686.tmp","error":0,"size":556026}}
+[12-Sep-2025 18:53:54 Europe/Berlin] [2025-09-12 18:53:54] Processing update for product ID: 150, Category: 
+[12-Sep-2025 18:53:54 Europe/Berlin] [2025-09-12 18:53:54] image_url column does not exist in products table
+[12-Sep-2025 18:53:54 Europe/Berlin] [2025-09-12 18:53:54] Product found for ID: 150, image_url: none
+[12-Sep-2025 18:53:54 Europe/Berlin] [2025-09-12 18:53:54] Product updated successfully for ID: 150
+[13-Sep-2025 15:35:48 Europe/Berlin] [2025-09-13 15:35:48] Update product request received: {"collection":"bags","gender":"men","brand":"B","name":"Winter jursey","price":"8000","stock":"4","image":"null","id":"165"}, Files: []
+[13-Sep-2025 15:35:48 Europe/Berlin] [2025-09-13 15:35:48] Processing update for product ID: 165, Category: 
+[13-Sep-2025 15:35:48 Europe/Berlin] [2025-09-13 15:35:48] image_url column does not exist in products table
+[13-Sep-2025 15:35:48 Europe/Berlin] [2025-09-13 15:35:48] Product found for ID: 165, image_url: none
+[13-Sep-2025 15:35:48 Europe/Berlin] [2025-09-13 15:35:48] Product updated successfully for ID: 165
+[13-Sep-2025 15:36:42 Europe/Berlin] [2025-09-13 15:36:42] Update product request received: {"collection":"bags","gender":"men","brand":"B","name":"Winter jursey","price":"8000","stock":"3","image":"null","id":"165"}, Files: []
+[13-Sep-2025 15:36:42 Europe/Berlin] [2025-09-13 15:36:42] Processing update for product ID: 165, Category: 
+[13-Sep-2025 15:36:42 Europe/Berlin] [2025-09-13 15:36:42] image_url column does not exist in products table
+[13-Sep-2025 15:36:42 Europe/Berlin] [2025-09-13 15:36:42] Product found for ID: 165, image_url: none
+[13-Sep-2025 15:36:42 Europe/Berlin] [2025-09-13 15:36:42] Product updated successfully for ID: 165
+[13-Sep-2025 21:33:39 Europe/Berlin] [2025-09-13 21:33:39] Update product request received: {"collection":"clothing","gender":"kids","brand":"B","name":"u","price":"200","stock":"2","image":"null","id":"168"}, Files: []
+[13-Sep-2025 21:33:39 Europe/Berlin] [2025-09-13 21:33:39] Processing update for product ID: 168, Category: 
+[13-Sep-2025 21:33:39 Europe/Berlin] [2025-09-13 21:33:39] image_url column does not exist in products table
+[13-Sep-2025 21:33:39 Europe/Berlin] [2025-09-13 21:33:39] Product found for ID: 168, image_url: none
+[13-Sep-2025 21:33:39 Europe/Berlin] [2025-09-13 21:33:39] Product updated successfully for ID: 168

@@ -1,0 +1,21 @@
+Array
+(
+    [collection] => clothing
+    [gender] => men
+)
+
+Array
+(
+    [image] => Array
+        (
+            [name] => WOMENL.webp
+            [full_path] => WOMENL.webp
+            [type] => image/webp
+            [tmp_name] => C:\xampp\tmp\php7AE5.tmp
+            [error] => 0
+            [size] => 556026
+        )
+
+)
+
+[12-Sep-2025 11:48:50 Europe/Berlin] No rows affected for ID: 1

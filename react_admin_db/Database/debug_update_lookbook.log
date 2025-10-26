@@ -1,0 +1,14 @@
+[12-Sep-2025 12:07:02 Europe/Berlin] [2025-09-12 12:07:02] Update request received: {"collection":"clothing","gender":"women","image":"null","id":"23"}, Files: []
+[12-Sep-2025 12:07:02 Europe/Berlin] [2025-09-12 12:07:02] Processing update for ID: 23
+[12-Sep-2025 12:07:02 Europe/Berlin] [2025-09-12 12:07:02] Lookbook found for ID: 23, image_url: uploads/lookbooks/1757671605_Modano.webp
+[12-Sep-2025 12:07:02 Europe/Berlin] [2025-09-12 12:07:02] Lookbook updated successfully for ID: 23
+[12-Sep-2025 16:29:26 Europe/Berlin] [2025-09-12 16:29:26] Update request received: {"collection":"clothing","gender":"kids","id":"22"}, Files: {"image":{"name":"WOMENL.webp","full_path":"WOMENL.webp","type":"image\/webp","tmp_name":"C:\\xampp\\tmp\\php616B.tmp","error":0,"size":556026}}
+[12-Sep-2025 16:29:26 Europe/Berlin] [2025-09-12 16:29:26] Processing update for ID: 22
+[12-Sep-2025 16:29:26 Europe/Berlin] [2025-09-12 16:29:26] Lookbook found for ID: 22, image_url: uploads/lookbooks/1757671447_WOMENL.webp
+[12-Sep-2025 16:29:26 Europe/Berlin] [2025-09-12 16:29:26] Invalid image type: image/webp
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Update request received: {"collection":"clothing","gender":"kids","id":"22"}, Files: {"image":{"name":"grayrose.jpeg","full_path":"grayrose.jpeg","type":"image\/jpeg","tmp_name":"C:\\xampp\\tmp\\php8976.tmp","error":0,"size":77248}}
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Processing update for ID: 22
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Lookbook found for ID: 22, image_url: uploads/lookbooks/1757671447_WOMENL.webp
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Image uploaded: Uploads/lookbooks/1757687376_grayrose.jpeg
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Old image deleted: uploads/lookbooks/1757671447_WOMENL.webp
+[12-Sep-2025 16:29:36 Europe/Berlin] [2025-09-12 16:29:36] Lookbook updated successfully for ID: 22

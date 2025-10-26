@@ -1,0 +1,20 @@
+[12-Sep-2025 19:08:02 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_url' in 'field list' in C:\xampp\htdocs\react_admin_db\get_products.php:30
+Stack trace:
+#0 C:\xampp\htdocs\react_admin_db\get_products.php(30): mysqli->prepare('SELECT id, COAL...')
+#1 {main}
+  thrown in C:\xampp\htdocs\react_admin_db\get_products.php on line 30
+[12-Sep-2025 19:08:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_url' in 'field list' in C:\xampp\htdocs\react_admin_db\get_products.php:30
+Stack trace:
+#0 C:\xampp\htdocs\react_admin_db\get_products.php(30): mysqli->prepare('SELECT id, COAL...')
+#1 {main}
+  thrown in C:\xampp\htdocs\react_admin_db\get_products.php on line 30
+[12-Sep-2025 19:08:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_url' in 'field list' in C:\xampp\htdocs\react_admin_db\get_products.php:30
+Stack trace:
+#0 C:\xampp\htdocs\react_admin_db\get_products.php(30): mysqli->prepare('SELECT id, COAL...')
+#1 {main}
+  thrown in C:\xampp\htdocs\react_admin_db\get_products.php on line 30
+[12-Sep-2025 19:08:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_url' in 'field list' in C:\xampp\htdocs\react_admin_db\get_products.php:30
+Stack trace:
+#0 C:\xampp\htdocs\react_admin_db\get_products.php(30): mysqli->prepare('SELECT id, COAL...')
+#1 {main}
+  thrown in C:\xampp\htdocs\react_admin_db\get_products.php on line 30
